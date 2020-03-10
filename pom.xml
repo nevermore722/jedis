@@ -20,6 +20,14 @@
       <artifactId>junit-jupiter-api</artifactId>
       <version>5.5.2</version>
     </dependency>
+    <!-- 2020_3_10引入spring -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-core</artifactId>
+      <version>4.0.5.RELEASE</version>
+    </dependency>
+
+
   </dependencies>
 
 </project>
